@@ -1,47 +1,56 @@
-DataNow 🌐
+# **DataNow** 🌐
 
-Descrição do Projeto
+## 📖 **Descrição do Projeto**
+**DataNow** é uma aplicação web projetada para tornar dados complexos acessíveis e compreensíveis por meio de visualizações dinâmicas e interativas. Com um foco em **UX/UI** e **princípios de affordances**, o site oferece uma experiência intuitiva, especialmente para iniciantes que desejam aprender e explorar informações visuais de forma prática.
 
-DataNow é uma aplicação web desenvolvida com o objetivo de simplificar a compreensão de dados complexos por meio de visualizações intuitivas e interativas. Projetado com foco em UX/UI e princípios de affordances, o site facilita o aprendizado para iniciantes e promove o acesso a informações de maneira visualmente agradável e acessível.
+Este projeto foi desenvolvido como parte da disciplina **Métodos Digitais**, ministrada pela professora **Danielle Sanches de Almeida Gonçalves**.
 
-O projeto foi desenvolvido para a disciplina Métodos Digitais, sob orientação da professora Danielle Sanches de Almeida Gonçalves.
+---
 
-Funcionalidades Principais ✨
+## ✨ **Funcionalidades Principais**
+- 📊 **Visualizações interativas** de dados focadas em iniciantes.
+- 🎨 **Interface responsiva e amigável**, com design moderno.
+- 🖼️ Baseado no template **Landed** para uma experiência minimalista e eficiente.
+- 🚀 **Foco total no aprendizado e usabilidade**.
 
-	•	📊 Visualizações de dados dinâmicas para iniciantes.
-	•	🎨 Interface amigável e responsiva.
-	•	🖼️ Design moderno e minimalista inspirado no template Landed.
-	•	🚀 Foco na experiência do usuário e aprendizado interativo.
+---
 
-Como Usar
+## 🛠️ **Tecnologias Utilizadas**
+- **HTML5**, **CSS3** e **JavaScript** para o desenvolvimento front-end.
+- Template **Landed** por [HTML5 UP](https://html5up.net/landed).
+- Servidor configurado com **Nginx**.
+- Controle de versão com **Git** e **GitHub**.
 
-	1.	Acesse o site DataNow.
-	2.	Explore as visualizações e aprenda com dados apresentados de maneira intuitiva.
-	3.	Interaja com os gráficos e recursos disponíveis para personalizar sua experiência.
+---
 
-Tecnologias Utilizadas 🛠️
+## 💻 **Como Usar**
+1. Acesse o site em: [DataNow](https://datanow.info).
+2. Navegue pelas visualizações disponíveis e explore os dados apresentados.
+3. Interaja com os gráficos e ferramentas para personalizar a experiência de aprendizado.
 
-	•	HTML5, CSS3, e JavaScript para desenvolvimento front-end.
-	•	Template Landed por HTML5 UP.
-	•	Configuração de servidor com Nginx.
-	•	Controle de versão com Git e GitHub.
+---
 
-Créditos e Licença 📜
+## 📜 **Créditos e Licença**
+Este projeto utiliza o template **Landed**, desenvolvido por [HTML5 UP](https://html5up.net) e licenciado sob **Creative Commons Attribution 3.0** ([CCA 3.0](https://html5up.net/license)).
 
-Este projeto utiliza o template Landed, criado por HTML5 UP e licenciado sob Creative Commons Attribution 3.0 (CCA 3.0).
-	•	Autor Original do Template: AJLKN
-	•	Modificações realizadas para atender às necessidades do projeto DataNow.
+- **Autor do Template**: [AJLKN](https://html5up.net)
+- Modificações realizadas para personalizar e atender às necessidades do projeto **DataNow**.
 
-Autores
+---
 
-	•	Artur Grochau
-	•	Caio Almeida
-	•	Dominique
+## 🧑‍💻 **Autores**
+- **Artur Grochau**  
+- **Caio Almeida**  
+- **Dominique**
 
-Professor(a)
+---
 
-	•	Danielle Sanches de Almeida Gonçalves
+## 👩‍🏫 **Professora**
+- **Danielle Sanches de Almeida Gonçalves**
 
-Contato
+---
 
-Para dúvidas ou sugestões, entre em contato via GitHub.
+## 📬 **Contato**
+Para dúvidas ou sugestões, entre em contato via [GitHub](https://github.com/arturpedrotti).
+
+---
