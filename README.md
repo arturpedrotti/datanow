@@ -3,8 +3,6 @@
 ## 📖 **Descrição do Projeto**
 **DataNow** é uma aplicação web projetada para tornar dados complexos acessíveis e compreensíveis por meio de visualizações dinâmicas e interativas. Com um foco em **UX/UI** e **princípios de affordances**, o site oferece uma experiência intuitiva, especialmente para iniciantes que desejam aprender e explorar informações visuais de forma prática.
 
-Este projeto foi desenvolvido como parte da disciplina **Métodos Digitais**, ministrada pela professora **Danielle Sanches de Almeida Gonçalves**.
-
 ---
 
 ## ✨ **Funcionalidades Principais**
