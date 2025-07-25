@@ -1,44 +1,27 @@
-# **DataNow** 🌐
+# DataNow 🌐
 
-## 📖 **Descrição do Projeto**
-**DataNow** é uma aplicação web projetada para tornar dados complexos acessíveis e compreensíveis por meio de visualizações dinâmicas e interativas. Com um foco em **UX/UI** e **princípios de affordances**, o site oferece uma experiência intuitiva, especialmente para iniciantes que desejam aprender e explorar informações visuais de forma prática.
+## 📖 Project Description
+**DataNow** is a public web application designed to make complex data accessible and understandable through dynamic, interactive visualizations. It emphasizes user experience (UX/UI) and the concept of affordances, providing an intuitive experience for beginners who want to explore visual information in a practical way. The project was developed as part of an academic initiative at FGV Rio University.
 
----
+## ✨ Main Features
+- Interactive data visualizations tailored for novices.
+- Responsive, modern interface with a minimalist design.
+- Built using the **Landed** template by HTML5 UP.
+- Focused on usability and learning.
 
-## ✨ **Funcionalidades Principais**
-- 📊 **Visualizações interativas** de dados focadas em iniciantes.
-- 🎨 **Interface responsiva e amigável**, com design moderno.
-- 🖼️ Baseado no template **Landed** para uma experiência minimalista e eficiente.
-- 🚀 **Foco total no aprendizado e usabilidade**.
+## 🛠️ Technologies Used
+- **Frontend:** HTML5, CSS3, JavaScript.
+- **Backend:** Python (87.3%) served via an Nginx configuration.
+- **Template:** The site uses the “Landed” theme from [HTML5 UP](https://html5up.net/landed), which is distributed under the Creative Commons Attribution 3.0 License [oai_citation:0‡html5up.net](https://html5up.net/license#:~:text=All%20of%20the%20site%20templates,License%2C%20which%20means%20you%20can).  
+- **Version Control:** Git and GitHub.
 
----
+## 💻 How to Use
+1. Visit [DataNow](https://datanow.info).
+2. Browse the available visualizations and explore the displayed data.
+3. Interact with graphs and tools to customize your learning experience.
 
-## 🛠️ **Tecnologias Utilizadas**
-- **HTML5**, **CSS3** e **JavaScript** para o desenvolvimento front-end.
-- Template **Landed** por [HTML5 UP](https://html5up.net/landed).
-- Servidor configurado com **Nginx**.
-- Controle de versão com **Git** e **GitHub**.
+## 📜 Credits and License
+This project uses the **Landed** template created by [AJLKN](https://html5up.net). All HTML5 UP templates are licensed under the Creative Commons Attribution 3.0 License [oai_citation:1‡html5up.net](https://html5up.net/license#:~:text=All%20of%20the%20site%20templates,License%2C%20which%20means%20you%20can), which allows you to use, modify, and redistribute them as long as credit is given to the original author. Modifications have been made to adapt the template to the needs of the **DataNow** project.
 
----
-
-## 💻 **Como Usar**
-1. Acesse o site em: [DataNow](https://datanow.info).
-2. Navegue pelas visualizações disponíveis e explore os dados apresentados.
-3. Interaja com os gráficos e ferramentas para personalizar a experiência de aprendizado.
-
----
-
-## 📜 **Créditos e Licença**
-Este projeto utiliza o template **Landed**, desenvolvido por [HTML5 UP](https://html5up.net) e licenciado sob **Creative Commons Attribution 3.0** ([CCA 3.0](https://html5up.net/license)).
-
-- **Autor do Template**: [AJLKN](https://html5up.net)
-- Modificações realizadas para personalizar e atender às necessidades do projeto **DataNow**.
-
----
-
-
-
-## 📬 **Contato**
-Para dúvidas ou sugestões, entre em contato via [GitHub](https://github.com/arturpedrotti).
-
----
+## 📬 Contact
+For questions or suggestions, please open an issue or submit feedback via [GitHub](https://github.com/arturpedrotti).
